@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-13T02:20:24 EDT" name="Default suite" finished-at="2022-04-13T02:20:24 EDT" duration-ms="46">
+    <groups>
+    </groups>
+    <test started-at="2022-04-13T02:20:24 EDT" name="Default test" finished-at="2022-04-13T02:20:24 EDT" duration-ms="46">
+      <class name="Basic_Maven.Basic_Maven_ID.Appium">
+        <test-method signature="mobileapp()[pri:0, instance:Basic_Maven.Basic_Maven_ID.Appium@50b5ac82]" started-at="2022-04-13T02:20:24 EDT" name="mobileapp" finished-at="2022-04-13T02:20:24 EDT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileapp -->
+      </class> <!-- Basic_Maven.Basic_Maven_ID.Appium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
